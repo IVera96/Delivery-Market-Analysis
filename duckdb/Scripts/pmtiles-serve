@@ -1,0 +1,3 @@
+#!C:\Users\ilasv\OneDrive\Desktop\DeliveryMarketAnalysis\duckdb\Scripts\python.exe
+
+print('This command has been deprecated; see the "pmtiles serve" command at https://github.com/protomaps/go-pmtiles')
